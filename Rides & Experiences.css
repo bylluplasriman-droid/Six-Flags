@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(109, 152, 192);
+}
+.ridesSection{
+    display:flex;
+    justify-content:space-around;
+}
+.ridesSection div{
+    width:350px;
+    border:1px solid black;
+    box-shadow:3px 3px 5px grey;
+    padding:30px;
+}
